@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 catboost_info/*
-
+.venv/*
 
 # C extensions
 *.so
